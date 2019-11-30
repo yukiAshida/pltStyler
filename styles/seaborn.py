@@ -162,7 +162,7 @@ LEGEND = {
     # フレーム
     'legend.frameon':True,         # フレームの有無
     'legend.edgecolor':'0.8',      # フレームのエッジの色
-    'legend.facecolor':'inherit',  # フレームの背景色
+    'legend.facecolor':'w',  # フレームの背景色
     'legend.framealpha':0.8,       # フレームの透過率
 
     # オプション
